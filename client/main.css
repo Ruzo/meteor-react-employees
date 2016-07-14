@@ -1,1 +1,15 @@
 /* CSS declarations go here */
+.employee_list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card {
+  /*min-width: 440px;*/
+  width: 300px;
+}
+
+.card img {
+  width: 100%;
+}

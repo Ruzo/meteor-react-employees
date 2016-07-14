@@ -5,6 +5,12 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "meteor-node-stubs": "~0.2.0"
+    "faker": "^3.1.0",
+    "lodash": "^4.13.1",
+    "meteor-node-stubs": "~0.2.0",
+    "random-hash": "^3.0.1",
+    "react": "^15.2.1",
+    "react-addons-pure-render-mixin": "^15.2.1",
+    "react-dom": "^15.2.1"
   }
 }
